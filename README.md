@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tayvinb1
 - 👀 I’m interested in The Rockafire Explosion and animatronics
-- 🌱 I’m currently learning nuffin
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me u dont
+- 🌱 I’m currently learning Arduino
+- 📫 You can reach me through discord (username: tbprod)
 
 <!---
 tayvinb1/tayvinb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
